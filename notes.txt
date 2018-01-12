@@ -12,3 +12,13 @@ git config user.email
 git config user.name
 git add --all
 git commit -m "Install Rails"
+
+# On github, create new repo
+git remote add origin https://github.com/ImsirovicAjdin/rails003.git
+git push -u origin master
+
+# in views/demo/index:
+<h1>Hello World</h1>
+
+# live website:
+# https://rails003-ajdika715469.codeanyapp.com/demo/index
