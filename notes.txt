@@ -22,3 +22,5 @@ git push -u origin master
 
 # live website:
 # https://rails003-ajdika715469.codeanyapp.com/demo/index
+
+# config/routes.rb has update the get route for demo/index
