@@ -1,0 +1,14 @@
+rails new .
+sudo apt-get install libsqlite3-dev
+Y
+bundle install
+rails s
+http://rails003-ajdika715469.codeanyapp.com:3000/
+rails generate controller demo index
+layout false # (in demo controller)
+git init
+git status
+git config user.email
+git config user.name
+git add --all
+git commit -m "Install Rails"
